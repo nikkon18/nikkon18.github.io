@@ -8,14 +8,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Nikki的博客',
   tagline: '锲而不舍 金石可镂',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/blog',
+  url: 'https://nikkon18.github.io/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
+  organizationName: 'nikkon18', // Usually your GitHub org/user name.
+  projectName: 'nikkon18.github.io', // Usually your repo name.
+  deploymentBranch:'gh-pages',
+  trailingSlash:false,
   presets: [
     [
       'classic',
