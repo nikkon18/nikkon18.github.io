@@ -9,7 +9,7 @@ const config = {
   title: 'Nikki的博客',
   tagline: '锲而不舍 金石可镂',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/blog',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
