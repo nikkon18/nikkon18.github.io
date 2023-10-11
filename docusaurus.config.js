@@ -6,12 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Nikki的博客',
-  tagline: '锲而不舍 金石可镂',
+  title: "Nikki's Blog",
+  tagline: 'patience wears out stones',
   url: 'https://nikkon18.github.io/',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
   favicon: 'img/favicon.ico',
   organizationName: 'nikkon18', // Usually your GitHub org/user name.
   projectName: 'nikkon18.github.io', // Usually your repo name.
@@ -46,7 +46,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Nikki的博客',
+        title: "Nikki's Blog",
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',

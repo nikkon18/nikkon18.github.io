@@ -4,29 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: '一直探索',
+    title: 'always exploring',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        探索自己的前端体系
+        explore my own knowledge system
       </>
     ),
   },
   {
-    title: '一直改变',
+    title: 'always changing',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        永远不变的就是变化 不断尝试新技术
+        what never changes is change;continuously trying new technology stacks
       </>
     ),
   },
   {
-    title: '一直不变',
+    title: 'always unchanged',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        不变的初心 一直not enough
+        remain true to original aspiration and keep mission firmly in mind.
       </>
     ),
   },
