@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/Supervised Machine Learning/Overview of Machine learning">
-            start exploring ⏱️
+            Start Exploring ⏱️
           </Link>
         </div>
       </div>

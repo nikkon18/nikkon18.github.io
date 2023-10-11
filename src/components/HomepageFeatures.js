@@ -4,29 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'always exploring',
+    title: 'Always Exploring',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        explore my own knowledge system
+        Explore my own knowledge system.
       </>
     ),
   },
   {
-    title: 'always changing',
+    title: 'Always Changing',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        what never changes is change;continuously trying new technology stacks
+        What never changes is change;continuously trying new technology stacks.
       </>
     ),
   },
   {
-    title: 'always unchanged',
+    title: 'Always Unchanged',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        remain true to original aspiration and keep mission firmly in mind.
+        Remain true to original aspiration and keep mission firmly in mind.
       </>
     ),
   },

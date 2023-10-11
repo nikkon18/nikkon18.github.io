@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Nikki's Blog",
-  tagline: 'patience wears out stones',
+  tagline: 'Patience wears out stones.',
   url: 'https://nikkon18.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
@@ -110,7 +110,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()}`,
       },
       prism: {
         theme: lightCodeTheme,
